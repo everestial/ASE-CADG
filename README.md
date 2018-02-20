@@ -3,7 +3,7 @@ Pipeline for ASE (allele specific expression) using competitive alignment to dip
 
 Below are the steps by step guide to do ASE analyses using diploid genome
 
-   Step 01: Alignment on haploid genome to preparation of VCF file
+    Step 01: Alignment on haploid genome to preparation of VCF file
    
 This step can be done using GATK pipeline or any other pipelines of your interest. I am not going to talk about this in detail.
   
