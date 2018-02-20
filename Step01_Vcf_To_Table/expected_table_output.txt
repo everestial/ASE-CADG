@@ -1,4 +1,4 @@
-chrom	pos	ref	all_alleles	all_freq	ms01e_PI	ms01e_PG_al	ms02g_PI	ms02g_PG_al	ms03g_PI	ms03g_PG_al	ms04h_PI	ms04h_PG_al	MA611_PI	MA611_PG_al	MA605_PI	MA605_PG_al	MA622_PI	MA622_PG_al
+contig	pos	ref	all_alleles	all_freq	ms01e_PI	ms01e_PG_al	ms02g_PI	ms02g_PG_al	ms03g_PI	ms03g_PG_al	ms04h_PI	ms04h_PG_al	MA611_PI	MA611_PG_al	MA605_PI	MA605_PG_al	MA622_PI	MA622_PG_al
 2	15881018	G	G, A, C	0.0, 1.0	.	.	.	.	.	.	.	A/A	.	G/G	.	G/G	.	G/G
 2	15881080	A	A, G	0.542, 0.458	.	G/G	.	G/G	.	G/G	.	G/G	.	A/A	.	A/A	.	A/A
 2	15881106	C	C, CA	0.958, 0.042	.	A/A	.	A/A	.	A/A	.	A/A	.	C/C	.	C/C	.	C/C
