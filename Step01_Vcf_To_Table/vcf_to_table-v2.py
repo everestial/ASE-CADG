@@ -67,7 +67,7 @@ def main():
         print('%i samples found' %len(sample_ids))
         print()
 
-        output_header = ['contig', 'pos', 'ref', 'all_alleles', 'all_freq']
+        output_header = ['contig', 'pos', 'ref', 'all-alleles', 'all-freq']
 
         for name in sample_ids:
             output_header.append(name + '_PI')
