@@ -21,3 +21,10 @@ Step 05: quantification of reads
 Step 06: ASE analyses
 
 
+
+use deepTools for descriptive summary of the alignment data:
+https://github.com/deeptools/deepTools/tree/develop
+
+PCA analyese for genes of interest -
+http://deeptools.readthedocs.io/en/latest/content/tools/plotPCA.html
+
