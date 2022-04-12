@@ -7,4 +7,3 @@ The test files: input and expected output files are included.
 Usage:
 
     python3 vcf_to_table-v2.py --vcf input_test.vcf --out expected_output_table.txt --unphased yes
-

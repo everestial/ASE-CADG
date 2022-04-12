@@ -1,4 +1,5 @@
 # ASE_analyses_pipeline
+
 Pipeline for ASE (allele specific expression) using competitive alignment to diploid genome
 
 Below are the steps by step guide to do ASE analyses using diploid genome
@@ -11,23 +12,16 @@ Step 02: Preparation of phased genotype/variants
   
 Step 03: Preparation of full diploid genome
 
-
 Step 04: Alignment to diploid genome and transcriptome using rnaSTAR
-
 
 Step 05: quantification of reads
 
-
 Step 06: ASE analyses
 
-
-
 use deepTools for descriptive summary of the alignment data:
-https://github.com/deeptools/deepTools/tree/develop
+<https://github.com/deeptools/deepTools/tree/develop>
 
 PCA analyese for genes of interest -
-http://deeptools.readthedocs.io/en/latest/content/tools/plotPCA.html
+<http://deeptools.readthedocs.io/en/latest/content/tools/plotPCA.html>
 
-
-
-## To be continued ..................
+## To be continued
